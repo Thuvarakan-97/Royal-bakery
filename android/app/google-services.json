@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146979574146",
+    "project_id": "bakery-delivery-a6ff6",
+    "storage_bucket": "bakery-delivery-a6ff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146979574146:android:c0e7d95b5f69b414fdbf9b",
+        "android_client_info": {
+          "package_name": "com.example.foode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146979574146-7gpo2ljca0gfej107s7qklbr74t003nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaRVeRhSkNlmlIwVOu3UyI-DrQp0d8OJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146979574146-7gpo2ljca0gfej107s7qklbr74t003nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
